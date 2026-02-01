@@ -41,7 +41,7 @@ const INFO = {
 				"Developed a centralized intranet-based Integrated Eligibility System (IES) to manage and streamline health and insurance-related public assistance programs such as Senior Citizen Pension Scheme, Life Insurance Scheme, Ration Card Scheme, Ayushman Bharat Scheme, Unemployment Scheme and more.",
 			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
 			linkText: "View Project",
-			link: "https://github.com/shivam-codespace/ies_application_backend.git",
+			link: "https://personal-portfolio-shivam.vercel.app/article/ies-application",
 		},
 
 		{
@@ -50,7 +50,7 @@ const INFO = {
 				"Developed a complete Internet Banking System that allows users to manage multi-currency accounts, perform transactions, handle digital cards, and view real-time balances. Designed with a scalable architecture and secure backend to simulate modern online banking workflows.",
 			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
 			linkText: "View Project",
-			link: "https://github.com/shivam-codespace/Banking-Application-Backend.git",
+			link: "https://personal-portfolio-shivam.vercel.app/article/bams-application",
 		},
 
 		{
@@ -59,7 +59,7 @@ const INFO = {
 				"Developed a cloud-based school management system enabling schools to manage academics, administration, and communication efficiently. Features include admissions, attendance, fees, exams, transport, notifications, staff management, accounting, and secure role-based access.",
 			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
 			linkText: "View Project",
-			link: "https://github.com/shivam-codespace/MERGE-ERP.git",
+			link: "https://personal-portfolio-shivam.vercel.app/article/merge-erp",
 		},
 
 		{
@@ -68,10 +68,10 @@ const INFO = {
 				"A responsive personal portfolio website showcasing my profile, skills, projects, and articles. Built with React to present my work as a Java backend developer using a clean UI, structured content, and GitHub-hosted documentation.",
 			logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://personal-portfolio-shivam.vercel.app/article/personal-portfolio",
 		},
 
-		{
+		{ 
 			title: "React Project",
 			description:
 				"A frontend-focused React project demonstrating modern UI design, component-based architecture, and responsive layouts.",
